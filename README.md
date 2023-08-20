@@ -1,4 +1,6 @@
 # Bakery-Analysis
+The bakery's analysis reveals that coffee is the most popular item, with weekday afternoons being the busiest times. March records the highest sales, and Saturdays stand out as particularly busy. A total of 94 distinct items are available, suggesting inventory management opportunities and potential for product expansion based on customer preferences.
+
 
 Bakery food analysis insights
 
